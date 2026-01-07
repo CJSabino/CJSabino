@@ -1,9 +1,7 @@
 # Olá, eu sou o Cauã Jefferson Santander Sabino!
 
-Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Ourinhos**.
-
 ### Sobre mim
-- Cursando o 5º semestre de ADS (Previsão de formatura: Dezembro/2026).
+- Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Ourinhos**.
 
 ### Linguagens:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
