@@ -1,4 +1,4 @@
-# Olá, eu sou o Cauã Jefferson Santander Sabino!
+# Olá, eu sou Cauã Jefferson!
 
 ### Sobre mim
 - Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Ourinhos**.
